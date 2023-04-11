@@ -5,5 +5,3 @@ This is an easy tool for you to extract slides from videos in the target folder.
 ```python
 python SlideEx.py
 ```
-
-# VideosToSlides-SlideEx
